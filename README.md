@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [General Info] (#general-info)
-- [Using the application] (#using-the-application)
-- [Technologies] (#technologies)
+- [General Info](#general-info)
+- [Using the application](#using-the-application)
+- [Technologies](#technologies)
 
 ## General Info
 
@@ -14,7 +14,7 @@ A simple file handling project in java.
 
 Welcome screen displays the application name, developer details, directory information and main menu.
 
-<img width = "700" alt = "Welcome Screen" src = "Images/WelcomeScreen.PNG">
+<img alt = "Welcome Screen" src = "Images/WelcomeScreen.PNG">
 
 The user has to select option from the user interface shown.
 
